@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn chile" group-title="TV | Deportes",ESPN CHILE
+http://tvstarlife.com:25461/cesar/cesar123/1323
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn arg hq" group-title="TV | Deportes",ESPN ARG
+http://181.176.148.142:8000/play/a02d
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn peru" group-title="TV | Deportes",ESPN PERU
+http://181.176.148.142:8000/play/a02d
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn mexico" group-title="TV | Deportes",ESPN MEXICO
+http://177.234.230.226:8010/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn brasil" group-title="TV | Deportes",ESPN BRASIL
+http://45.162.132.145:8850/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn 2" group-title="TV | Deportes",ESPN 2
+http://200.41.79.165:8000/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn 2 arg hq" group-title="TV | Deportes",ESPN 2 ARG
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1084
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn 2 sur" group-title="TV | Deportes",ESPN 2 SUR
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128612
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn 3" group-title="TV | Deportes",ESPN 3
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128616
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn 3 sur" group-title="TV | Deportes",ESPN 3 SUR
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1088
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn 4" group-title="TV | Deportes",ESPN 4
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/11911
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn extra arg" group-title="TV | Deportes",ESPN EXTRA ARG
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1091
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn deportes" group-title="TV | Deportes",ESPN DEPORTES
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
