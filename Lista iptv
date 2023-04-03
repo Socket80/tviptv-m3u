@@ -1,4 +1,440 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ieanjesus.ec" tvg-name="ec| iean jesus hd" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8ccgtWPtXk3NUTAc83H1ZuygZHGFjij1prOs16w=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Ecuador",EC| IEAN JESUS HD
+https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1384570274_DVR.m3u8
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="ec| ecuavisa" group-title="TV | Ecuador",ECUAVISA
+http://177.234.230.226:8010/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="ec| ecuavisa hd" group-title="TV | Ecuador",ECUAVISA HD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408501
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="ec| ecuavisa internacional" tvg-logo="https://wikidat.com/img/ecuavisa-76f4e86b1852433067af8f7ebd597da0.jpg" group-title="TV | Ecuador",ECUAVISA INTERNACIONAL
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/7680
+#EXTINF:-1 tvg-id="tvc.ec" tvg-name="ec| tvc" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC
+http://177.234.230.226:8010/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="tvc.ec" tvg-name="ec| tvc hd" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="TV | Ecuador",TVC HD
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="ec| rts" tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="ec| rts hd" group-title="TV | Ecuador",RTS HD
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="ec| rts sd" group-title="TV | Ecuador",RTS SD
+http://177.234.230.226:8010/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| tc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408497
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="ec| oromar tv" tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
+http://177.234.230.226:8010/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="oromartv.ec" tvg-name="ec| oromar" tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408491
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="ec| gamavision" group-title="TV | Ecuador",GAMAVISION
+http://177.234.230.226:8010/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="ec| gamavision tv" group-title="TV | Ecuador",GAMAVISION TV
+http://160.20.165.246:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="gama.ec" tvg-name="ec| gamavision hd" group-title="TV | Ecuador",GAMAVISION HD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408493
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ec| teleamazonas" tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408498
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ec| teleamazonas hq" group-title="TV | Ecuador",TELEAMAZONAS HQ
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/142287
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ec| teleamazonas hd" group-title="TV | Ecuador",TELEAMAZONAS HD
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/516
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ecuador tv" tvg-logo="https://radiolacalle.com/wp-content/uploads/2020/07/unnamed-8-696x696.jpg" group-title="TV | Ecuador",ECUADOR TV
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/502
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="ecuador tv hd" group-title="TV | Ecuador",ECUADOR TV HD
+http://186.5.31.251:8000/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="ec| multicanal" group-title="TV | Ecuador",MULTICANAL
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+#EXTINF:-1 tvg-id="canela.ec" tvg-name="ec| rtu sd" group-title="TV | Ecuador",RTU SD
+http://177.234.230.226:8010/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| hechos tv" group-title="TV | Ecuador",HECHOS TV
+https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| quevedo tv" group-title="TV | Ecuador",QUEVEDO TV
+https://cloudvideo.servers10.com:8081/8104/index.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| loreto tv" group-title="TV | Ecuador",LORETO TV
+https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w463425149.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| el sol network tv" group-title="TV | Ecuador",EL SOL NETWORK TV
+https://rctvhd.net:8081/elsol105fm/index.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| nortvision tv" group-title="TV | Ecuador",NORTVISION TV
+https://plataformavideo.com/live/nortvision.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| inti tv" group-title="TV | Ecuador",INTI TV
+http://190.83.116.230:9010/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| austral tv" group-title="TV | Ecuador",AUSTRAL TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| naranjal tv" group-title="TV | Ecuador",NARANJAL TV
+http://177.234.230.226:8010/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="tc.ec" tvg-name="ec| capricho tv" group-title="TV | Ecuador",CAPRICHO TV
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+#EXTINF:-1 tvg-id="history.ec" tvg-name="int| history" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY
+http://45.179.164.9:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="history.ec" tvg-name="int| history hd" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.jpg" group-title="TV | Internacional",HISTORY HD
+http://45.162.132.145:8850/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="history.ec" tvg-name="int| history 2" tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2
+http://177.234.230.226:8010/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="history.ec" tvg-name="int| history 2 hd" tvg-logo="https://ipuntotv.com/IMAGES/History2-logo.jpg" group-title="TV | Internacional",HISTORY 2 HD
+http://181.78.7.92:6500/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="int| a&e" tvg-logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="TV | Internacional",A&E
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2077
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="int| a&e hd" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/a1/d9/8ea1d9b3-39b0-995e-1cd7-23e9ef0cd66a/source/512x512bb.jpg" group-title="TV | Internacional",A&E HD
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87429
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="int| a3series" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES
+http://177.234.230.226:8010/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="int| a3series sur" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="TV | Internacional",A3SERIES SUR
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1767
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="int| e" group-title="TV | Internacional",E
+http://177.234.230.226:8010/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="a&e.ec" tvg-name="int| e!" tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E!
+http://181.78.7.92:6500/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO
+http://45.160.12.253:8000/play/017
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo lat" tvg-logo="http://www.vod-logo.net/photos/b85876d3637aafe73ba3dc50ae027dfa.jpg" group-title="TV | Internacional",INT| HBO LAT
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87462
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo hd" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/HBO-696x344.jpg" group-title="TV | Internacional",INT| HBO HD
+http://170.83.242.30:5350/play/a001
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo pop" tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",HBO POP
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2236
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo pop hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/416184
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo 2" group-title="TV | Internacional",HBO 2
+http://tvstarlife.com:25461/cesar/cesar123/127
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo 2 hd" group-title="TV | Internacional",HBO 2 HD
+http://181.78.27.187:5350/play/a02o
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo family" tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY
+http://170.83.242.156:5350/play/a02r
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo family hd" tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278798
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo plus" group-title="TV | Internacional",HBO PLUS
+http://170.83.242.156:5350/play/a02p
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo plus hd" group-title="TV | Internacional",HBO PLUS HD
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2229
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo xtreme" group-title="TV | Internacional",HBO XTREME
+http://45.160.12.253:8000/play/020
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo xtreme hd" group-title="TV | Internacional",HBO XTREME HD
+http://170.83.242.156:5350/play/a02q
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo mundi" group-title="TV | Internacional",HBO MUNDI
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278762
+#EXTINF:-1 tvg-id="hbo.ec" tvg-name="int| hbo signature" group-title="TV | Internacional",HBO SIGNATURE
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278765
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="int| tnt" group-title="TV | Internacional",TNT
+http://190.131.228.59:8000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="int| tnt hq" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/03/TNT.png" group-title="TV | Internacional",TNT HQ
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/409573
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="int| tnt hd" tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
+http://181.78.7.92:6500/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="int| tnt españa" group-title="TV | Internacional",TNT ESPAÑA
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1791
+#EXTINF:-1 tvg-id="tnt.ec" tvg-name="int| tnt series" tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="TV | Internacional",TNT SERIES
+http://186.67.73.110:5054/play/a01k
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="int| cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="TV | Internacional",CINECANAL
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2205
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="int| cinecanal hd" group-title="TV | Internacional",CINECANAL HD
+http://191.102.106.46:15028/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="int| cinecanal lat" group-title="TV | Internacional",CINECANAL LAT
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278780
+#EXTINF:-1 tvg-id="animal.ec" tvg-name="int| animal planet" group-title="TV | Internacional",ANIMAL PLANET
+http://45.160.12.253:8000/play/025
+#EXTINF:-1 tvg-id="animal.ec" tvg-name="int| animal planet hd" group-title="TV | Internacional",ANIMAL PLANET HD
+http://tvstarlife.com:25461/cesar/cesar123/135
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="int| home & garden" group-title="TV | Internacional",HOME & GARDEN
+http://tvstarlife.com:25461/cesar/cesar123/161
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="int| love nature" group-title="TV | Internacional",LOVE NATURE
+http://181.176.148.142:8000/play/a02q
+#EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="int| tour channel" group-title="TV | Internacional",TOUR CHANNEL
+http://45.160.12.253:8000/play/179
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery channel" tvg-logo="https://img1.freepng.es/20180607/jaz/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa1663cf1.1765839215283731534188.jpg" group-title="TV | Internacional",DISCOVERY CHANNEL
+http://170.83.242.30:5350/play/a00o
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery" tvg-logo="https://img1.freepng.es/20180803/qcj/kisspng-discovery-channel-television-channel-discovery-hd-scansat-info-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D1%8B-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5b6444b871f133.8229586615332978484667.jpg" group-title="TV | Internacional",DISCOVERY
+http://181.176.148.142:8000/play/a029
+#EXTINF:-1 tvg-id="dicovery.ec" tvg-name="int| discovery h&h" tvg-logo="https://www.newslinereport.com/online/foto_682.JPG" group-title="TV | Internacional",DISCOVERY H&H
+http://170.83.242.156:5350/play/a01c
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery turbo" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="TV | Internacional",DISCOVERY TURBO
+http://200.41.79.165:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery science" tvg-logo="https://img1.freepng.es/20180716/ifo/kisspng-television-channel-discovery-science-discovery-cha-discovery-channel-5b4d686f082e90.8639218015317996630335.jpg" group-title="TV | Internacional",DISCOVERY SCIENCE
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278572
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery investigation" group-title="TV | Internacional",DISCOVERY INVESTIGATION
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278524
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery theater" group-title="TV | Internacional",DISCOVERY THEATER
+http://181.176.148.142:8000/play/a02m
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery world" group-title="TV | Internacional",DISCOVERY WORLD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278578
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| natgeo" tvg-logo="https://img1.freepng.es/20180806/iws/kisspng-logo-national-geographic-television-channel-corus-national-geographic-channel-imagine-entertainment-5b6818e970a813.2803541915335487774615.jpg" group-title="TV | Internacional",NATGEO
+http://200.116.232.66:9001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| natgeo hd" group-title="TV | Internacional",NATGEO HD
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2392
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| natgeo wild" tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/462844
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden" group-title="TV | Internacional",GOLDEN
+http://tvstarlife.com:25461/cesar/cesar123/110
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden hd" group-title="TV | Internacional",GOLDEN HD
+http://190.61.102.67:8000/play/a02b
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden lat" group-title="TV | Internacional",GOLDEN LAT
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124115
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden edge hq" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278756
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden edge" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
+http://tvstarlife.com:25461/cesar/cesar123/109
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden + hq" group-title="TV | Internacional",GOLDEN + HQ
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden plus" group-title="TV | Internacional",GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden premier" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2198
+#EXTINF:-1 tvg-id="golden.ec" tvg-name="int| golden multiplex" group-title="TV | Internacional",GOLDEN MULTIPLEX
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="int| paramount" group-title="TV | Internacional",PARAMOUNT
+http://181.78.7.92:6500/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="int| paramount hd" group-title="TV | Internacional",PARAMOUNT HD
+http://177.234.230.226:8010/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="int| warner brother hq" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
+http://170.239.188.253:50000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="int| warner" group-title="TV | Internacional",WARNER
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2075
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal tv hq" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
+http://200.41.79.165:8000/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal reality" group-title="TV | Internacional",UNIVERSAL REALITY
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278726
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal cinema" group-title="TV | Internacional",UNIVERSAL CINEMA
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278729
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal crime" group-title="TV | Internacional",UNIVERSAL CRIME
+http://181.189.243.254:8000/play/a0t0/index.m3u8
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal comedy" group-title="TV | Internacional",UNIVERSAL COMEDY
+http://181.78.27.190:5350/play/a0kq
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal premiere" group-title="TV | Internacional",UNIVERSAL PREMIERE
+http://181.78.27.187:5350/play/a0ko
+#EXTINF:-1 tvg-id="universal.ec" tvg-name="int| universal premiere 2" group-title="TV | Internacional",UNIVERSAL PREMIERE 2
+http://170.83.242.15:5350/play/a0ko
+#EXTINF:-1 tvg-id="sony.ec" tvg-name="int| sony hd" tvg-logo="https://img1.freepng.es/20180614/ojw/kisspng-sony-entertainment-television-sony-pictures-logo-t-sony-tv-5b2225e2136bc9.5060134815289645780796.jpg" group-title="TV | Internacional",SONY HD
+http://177.234.230.226:8010/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="sony.ec" tvg-name="int| sony" group-title="TV | Internacional",SONY
+http://181.78.7.92:6500/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="sony.ec" tvg-name="int| sony movies" group-title="TV | Internacional",SONY MOVIES
+http://181.175.41.170:8000/play/a0fg
+#EXTINF:-1 tvg-id="studio.ec" tvg-name="int| studio universal hq" tvg-logo="https://img1.freepng.es/20180406/wdw/kisspng-universal-pictures-studio-universal-television-cha-studio-5ac73ebabe2eb2.543294791523007162779.jpg" group-title="TV | Internacional",STUDIO UNIVERSAL HD
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127651
+#EXTINF:-1 tvg-id="star.ec" tvg-name="int| star channel hq" group-title="TV | Internacional",STAR CHANNEL HQ
+http://45.160.12.253:8000/play/083
+#EXTINF:-1 tvg-id="star.ec" tvg-name="int| star channel" group-title="TV | Internacional",STAR CHANNEL
+http://181.78.27.190:5350/play/a037
+#EXTINF:-1 tvg-id="star.ec" tvg-name="int| star action" group-title="TV | Internacional",STAR ACTION
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/308293
+#EXTINF:-1 tvg-id="cnn.ec" tvg-name="int| cnn hq" tvg-logo="http://playlistplus.site:8080/images/ff7a4157153a8077212c8757fd39b8bd.jpg" group-title="TV | Internacional",CNN HQ
+http://200.41.79.165:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="int| dw español" group-title="TV | Internacional",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="int| rusia today" group-title="TV | Internacional",RUSIA TODAY
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="int| telesur" group-title="TV | Internacional",TELESUR
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/308472
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="int| france 24" group-title="TV | Internacional",FRANCE 24
+http://190.186.159.19:58001/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="int| caracol" group-title="TV | Internacional",CARACOL
+http://181.78.12.119:16123/play/ch58/index.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| mtv" group-title="TV | Internacional",MTV
+http://200.41.79.165:8000/play/a042/index.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| mtv sim" group-title="TV | Internacional",MTV SIM
+http://181.78.7.92:6500/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| mtv hits" group-title="TV | Internacional",MTV HITS
+http://181.176.148.142:8000/play/a01y
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| concert tv" group-title="TV | Internacional",CONCERT TV
+http://50.7.66.234:8080/moontools/6548@89787/23236
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| kumbia tv" group-title="TV | Internacional",KUMBIA TV
+http://181.176.148.142:8000/play/a02o
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| zona latina" group-title="TV | Internacional",ZONA LATINA
+http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| htv" group-title="TV | Internacional",HTV
+http://181.189.243.254:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| metal tv" group-title="TV | Internacional",METAL TV
+http://181.176.148.142:8000/play/a01u
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| vallenato tv" group-title="TV | Internacional",VALLENATO TV
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| reggaeton tv" group-title="TV | Internacional",REGGAETON TV
+http://190.217.110.170:45000/play/a04f
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| vevo" group-title="TV | Internacional",VEVO
+https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="mtv.ec" tvg-name="int| telehit" group-title="TV | Internacional",TELEHIT
+http://170.239.188.253:50000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="pasiones.ec" tvg-name="int| pasiones hq" tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png" group-title="TV | Internacional",PASIONES HQ
+http://200.60.7.43:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| rcn novelas" group-title="TV | Internacional",RCN NOVELAS
+http://200.41.79.165:8000/play/a0is/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| telenovelas" group-title="TV | Internacional",TELENOVELAS
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278518
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| univision telenovelas" group-title="TV | Internacional",UNIVISION TELENOVELAS
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278515
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| telemundo" group-title="TV | Internacional",TELEMUNDO
+http://200.41.79.165:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| hola tv" group-title="TV | Internacional",HOLA TV
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278470
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| true tv" group-title="TV | Internacional",TRUE TV
+http://181.176.148.142:8000/play/a030
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| clic tv" group-title="TV | Internacional",CLIC TV
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/491243
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| el gourmet" group-title="TV | Internacional",EL GOURMET
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278563
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| cocina tv" group-title="TV | Internacional",COCINA TV
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/278554
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| mundo y sabor" group-title="TV | Internacional",MUNDO Y SABOR
+http://45.160.12.253:8000/play/178
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| el canal de las estrellas" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
+http://45.160.12.253:8000/play/151
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| mas chic" group-title="TV | Internacional",MAS CHIC
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2122
+#EXTINF:-1 tvg-id="space.ec" tvg-name="int| space hq" tvg-logo="https://img1.freepng.es/20180605/awk/kisspng-space-television-channel-warner-tv-cinemax-tv-channel-5b164afbdf80d7.4624852915281876439155.jpg" group-title="TV | Internacional",SPACE HQ
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2215
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| space" group-title="TV | Internacional",SPACE
+http://45.179.164.9:8000/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| space latino" group-title="TV | Internacional",SPACE LATINO
+http://170.83.242.15:5350/play/a005
+#EXTINF:-1 tvg-id="amc.ec" tvg-name="int| amc hq" group-title="TV | Internacional",AMC HQ
+http://190.186.159.19:58001/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="amc.ec" tvg-name="int| amc" group-title="TV | Internacional",AMC
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2083
+#EXTINF:-1 tvg-id="amc.ec" tvg-name="int| amc españa" group-title="TV | Internacional",AMC ESPAÑA
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1788
+#EXTINF:-1 tvg-id="axn.ec" tvg-name="int| axn hq" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2080
+#EXTINF:-1 tvg-id="amc.ec" tvg-name="int| axn españa" group-title="TV | Internacional",AXN ESPAÑA
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/462832
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| axn white" group-title="TV | Internacional",AXN WHITE
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1781
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| fx" group-title="TV | Internacional",FX
+http://170.83.242.156:5350/play/a006
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| fx2" group-title="TV | Internacional",FX2
+http://tvstarlife.com:25461/cesar/cesar123/66
+#EXTINF:-1 tvg-id="fx.ec" tvg-name="int| film & arts" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="TV | Internacional",Film & Arts
+http://190.83.116.230:9010/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| tbs" group-title="TV | Internacional",TBS
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/308467
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| tbs funny" group-title="TV | Internacional",TBS FUNNY
+http://200.116.232.66:9001/play/a08u/index.m3u8
+#EXTINF:-1 tvg-id="tlc.ec" tvg-name="int| tlc" tvg-logo="https://img1.freepng.es/20180723/lol/kisspng-tlc-discovery-channel-universal-channel-animal-pla-tlc-television-5b5610e6553c64.5165118515323670783491.jpg" group-title="TV | Internacional",TLC
+http://200.41.79.165:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| tlc latino" group-title="TV | Internacional",TLC LATINO
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2382
+#EXTINF:-1 tvg-id="tlc.ec" tvg-name="int| tcm" tvg-logo="https://img1.freepng.es/20180621/pfq/kisspng-turner-classic-movies-television-channel-turner-br-discovery-channel-5b2c16b3d4f743.5526121915296160518723.jpg" group-title="TV | Internacional",TCM
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1787
+#EXTINF:-1 tvg-id="tlc.ec" tvg-name="int| syfy" group-title="TV | Internacional",SYFY
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87470
+#EXTINF:-1 tvg-id="tlc.ec" tvg-name="int| syfy hd" group-title="TV | Internacional",SYFY HD
+http://45.179.164.9:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="tlc.ec" tvg-name="int| syfy españa" group-title="TV | Internacional",SYFY ESPAÑA
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="int| cinemax hq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2210
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="int| cinemax 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
+http://190.131.228.59:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="int| cinemax 3" group-title="TV | Internacional",CINEMAX 3
+http://200.41.79.165:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="int| cinemax action" group-title="TV | Internacional",CINEMAX ACTION
+http://170.83.242.156:5350/play/a002
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="int| lifetime" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2118
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="int| extrema tv" group-title="TV | Internacional",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="int| multi premiere" group-title="TV | Internacional",MULTI PREMIERE
+http://tvstarlife.com:25461/cesar/cesar123/117758
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="int| movie net" group-title="TV | Internacional",MOVIE NET
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="lifetime.ec" tvg-name="int| city tv" group-title="TV | Internacional",CITY TV
+http://186.5.31.251:8000/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| multicinema" group-title="TV | Internacional",MULTICINEMA
+http://177.234.230.226:8010/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| drama tv" group-title="TV | Internacional",DRAMA TV
+http://181.78.7.92:6500/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| comedy central" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="TV | Internacional",COMEDY CENTRAL
+http://181.78.7.92:6500/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| my time tv" group-title="TV | Internacional",MY TIME TV
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| clover channel" group-title="TV | Internacional",CLOVER CHANNEL
+http://170.239.188.253:50000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| mx prime" group-title="TV | Internacional",MX PRIME
+http://45.160.12.253:8000/play/122
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| mx family" group-title="TV | Internacional",MX FAMILY
+http://45.160.12.253:8000/play/120
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| club series" group-title="TV | Internacional",CLUB SERIES
+http://181.176.148.142:8000/play/a02y
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| bitme" group-title="TV | Internacional",BITME
+http://tvstarlife.com:25461/cesar/cesar123/27751
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| de pelicula" group-title="TV | Internacional",DE PELICULA
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87439
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| de pelicula plus" group-title="TV | Internacional",DE PELICULA PLUS
+http://tvstarlife.com:25461/cesar/cesar123/77
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| fmh movies" group-title="TV | Internacional",FMH MOVIES
+http://200.60.7.43:8000/play/5/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| fmh family" group-title="TV | Internacional",FMH FAMILY
+http://200.60.7.43:8000/play/6/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| panico tv" group-title="TV | Internacional",PANICO TV
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155171
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| orbit tv" group-title="TV | Internacional",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| seo tv" group-title="TV | Internacional",SEO TV
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="claro.ec" tvg-name="int| claro cinema" group-title="TV | Internacional",CLARO CINEMA
+http://181.78.27.187:5350/play/a00d
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="int| cine platino" group-title="TV | Internacional",CINE PLATINO
+http://177.234.230.226:8010/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="int| cine premium" group-title="TV | Internacional",CINE PREMIUM
+http://181.176.148.142:8000/play/a025
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="int| cine familiar" group-title="TV | Internacional",CINE FAMILIAR
+http://181.176.148.142:8000/play/a023
+#EXTINF:-1 tvg-id="cine.ec" tvg-name="int| cine infantil" group-title="TV | Internacional",CINE INFANTIL
+http://181.129.186.36:8089/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| movistar drama españa" group-title="TV | Internacional",MOVISTAR DRAMA ESPAÑA
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1771
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| movistar series españa" group-title="TV | Internacional",MOVISTAR SERIES ESPAÑA
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/129540
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| nick jr hq" tvg-logo="https://i.ytimg.com/vi/UpIwtf_C14U/hqdefault.jpg" group-title="TV | Infantiles",NICK JR HQ
+http://200.41.79.165:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| nick hq" tvg-logo="https://i.ibb.co/dmwq51F/NICK-2.jpg" group-title="TV | Infantiles",NICK HQ
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2155
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| nick norte" group-title="TV | Infantiles",NICK NORTE
+http://181.176.148.142:8000/play/a02t
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| teen nick hq" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/2154
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="int| disney xd hq" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
+https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127729
+#EXTINF:-1 tvg-id="disney.ec" tvg-name="int| disney channel hq" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
+http://181.176.148.142:8000/play/a02b
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| disney channel" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1869
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| disney" group-title="TV | Infantiles",DISNEY
+http://190.131.228.59:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| disney peliculas" group-title="TV | Infantiles",DISNEY PELICULAS
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1869
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| disney junior" group-title="TV | Infantiles",DISNEY JUNIOR
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/416186
+#EXTINF:-1 tvg-id="nick.ec" tvg-name="int| disney jr" group-title="TV | Infantiles",DISNEY JR
+http://tvstarlife.com:25461/cesar/cesar123/194
+#EXTINF:-1 tvg-id="discovery.ec" tvg-name="int| discovery kids hq" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
+http://200.41.79.165:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="int| cartoon network hq" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
+http://181.176.148.142:8000/play/a021
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="int| cartoon network" group-title="TV | Infantiles",CARTOON NETWORK
+http://200.41.79.165:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="cartoon.ec" tvg-name="int| planeta cartoon" group-title="TV | Infantiles",PLANETA CARTOON
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87434
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| baby tv" group-title="TV | Infantiles",BABY TV
+http://181.189.243.254:8000/play/a0ns/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| baby first" group-title="TV | Infantiles",BABY FIRST
+http://tvstarlife.com:25461/cesar/cesar123/27898
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| semillitas" group-title="TV | Infantiles",SEMILLITAS
+http://190.186.159.19:58001/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| zoomoo tv" group-title="TV | Infantiles",ZOOMOO TV
+http://181.176.148.142:8000/play/a032
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| magic kids" group-title="TV | Infantiles",MAGIC KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| cartoonito" group-title="TV | Infantiles",CARTOONITO
+http://45.162.132.145:8850/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| dos kids" group-title="TV | Infantiles",DOS KIDS
+http://45.160.12.253:8000/play/002
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| planeta junior tv" group-title="TV | Infantiles",PLANETA JUNIOR TV
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="int| dios tv kids" group-title="TV | Internacional",DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| fmh kids" group-title="TV | Infantiles",FMH KIDS
+http://200.60.7.43:8000/play/7/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| premier kids" group-title="TV | Infantiles",PREMIER KIDS
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="int| anime zone" group-title="TV | Infantiles",ANIME ZONE
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="bein.ec" tvg-name="dep| bein sports hd" group-title="TV | Deportes",BEIN SPORTS HD
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1191
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn chile" group-title="TV | Deportes",ESPN CHILE
 http://tvstarlife.com:25461/cesar/cesar123/1323
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn arg hq" group-title="TV | Deportes",ESPN ARG
@@ -25,3 +461,445 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/11911
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1091
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| espn deportes" group-title="TV | Deportes",ESPN DEPORTES
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| gol peru" group-title="TV | Deportes",GOL PERU
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/4802
+#EXTINF:-1 tvg-id="gol.ec" tvg-name="dep| goltv internacional" tvg-logo="http://castlempire.site:8080/images/5256bdb21b57b54cda28d99bbb583fd6.png" group-title="TV | Deportes",GOLTV INTERNACIONAL
+http://45.162.132.145:8850/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="dep| goltv hd" group-title="TV | Deportes",GOLTV HD
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408534
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="dep| goltv" group-title="TV | Deportes",GOLTV
+http://170.83.242.30:5350/play/a00v
+#EXTINF:-1 tvg-id="goltv.ec" tvg-name="dep| goltv ecuador" group-title="TV | Deportes",GOLTV ECUADOR
+http://181.78.27.190:5350/play/a00v
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| gol ecuador" group-title="TV | Deportes",GOL ECUADOR
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1214
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| goltv ecua" group-title="TV | Deportes",GOL TV ECUA
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1213
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="dep| goltv 1" group-title="TV | Deportes",GOLTV 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/180461
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="dep| tnt sport 1 hq" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/129706
+#EXTINF:-1 tvg-id="tntsport.ec" tvg-name="dep| tnt sport 3" group-title="TV | Deportes",TNT SPORT 3
+http://45.160.12.253:8000/play/235
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport mex" group-title="TV | Deportes",FOX SPORT MEX
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1074
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport" group-title="TV | Deportes",FOX SPORT
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1093
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport 1 arg" group-title="TV | Deportes",FOX SPORT 1 ARG
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87993
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport 2 arg" group-title="TV | Deportes",FOX SPORT 2 ARG
+http://tvstarlife.com:25461/cesar/cesar123/1331
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport 2 chile" group-title="TV | Deportes",FOX SPORT 2 CHILE
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1094
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport 2 mex" group-title="TV | Deportes",FOX SPORT 2 MEX
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1076
+#EXTINF:-1 tvg-id="foxsport.ec" tvg-name="dep| fox sport 3 arg" tvg-logo="http://castlempire.site:8080/images/b8b6ec99d04bf25ba2cee73c6d4a1b53.png" group-title="TV | Deportes",FOX SPORT 3 ARG
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/279059
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox sport 3 hd" group-title="TV | Deportes",FOX SPORT 3 HD
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1097
+#EXTINF:-1 tvg-id="fox.ec" tvg-name="dep| fox sports premium mex" tvg-logo="http://castlempire.site:8080/images/64d85e9adc2e4a68ec3b93358786cedd.png" group-title="TV | Deportes",FOX SPORTS PREMIUM MEX
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/279062
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fox deportes" group-title="TV | Deportes",FOX DEPORTES
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/14363
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="dep| el canal del futbol" group-title="TV | Deportes",EL CANAL DEL FUTBOL
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/7617
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="dep| el canal del futbol 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
+http://186.5.31.251:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="dep| el canal del futbol op2" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408531
+#EXTINF:-1 tvg-id="ecnf.ec" tvg-name="dep| el canal del futbol op3" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/176964
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| el canal del futbol op4" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
+http://186.101.70.92:25501/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv argentina" group-title="TV | Deportes",DIRECTV ARGENTINA
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/279367
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv 1 argentina" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11024
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv ecuador" group-title="TV | Deportes",DIRECTV ECUADOR
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408530
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv ecua" group-title="TV | Deportes",DIRECTV ECUA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv colombia" group-title="TV | Deportes",DIRECTV COLOMBIA
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105197
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv españa" group-title="TV | Deportes",DIRECTV ESPAÑA
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86647
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| dsports 1" group-title="TV | Deportes",DSPORTS 1
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1382
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| dsports 2" group-title="TV | Deportes",DSPORTS 2
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1194
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| directv sport" group-title="TV | Deportes",DIRECTV SPORT
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/131146
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| directv 1" group-title="TV | Deportes",DIRECTV 1
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86283
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="dep| directv 2" tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1205
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| directv 2 hd" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| directv +" group-title="TV | Deportes",DIRECTV +
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408532
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| directv + hd" group-title="TV | Deportes",DIRECTV + HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11026
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| directv plus" group-title="TV | Deportes",DIRECTV PLUS
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1195
+#EXTINF:-1 tvg-id="ufc.ec" tvg-name="dep| ufc" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/334385
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| fight tv" group-title="TV | Deportes",FIGHT TV
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| xtreme sport" group-title="TV | Deportes",XTREME SPORT
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="claro.ec" tvg-name="dep| claro sport" tvg-logo="https://pbs.twimg.com/profile_images/827556342390996993/cdOY6gka_400x400.jpg" group-title="TV | Deportes",CLARO SPORT
+http://186.5.31.251:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="dep| univision sport" group-title="TV | Deportes",UNIVISION SPORT
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86244
+#EXTINF:-1 tvg-id="real.ec" tvg-name="dep| real madrid tv" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="TV | Deportes",REAL MADRID TV
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1813
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="dep| movistar deportes 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
+http://186.5.31.251:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="dep| latina" group-title="TV | Deportes",LATINA
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/129894
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="dep| win sport plus" group-title="TV | Deportes",WIN SPORT PLUS
+http://190.131.228.59:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="dep| afizzionados" group-title="TV | Deportes",AFIZZIONADOS TV
+https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="tyc.ec" tvg-name="dep| tyc sport" group-title="TV | Deportes",TYC SPORT
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/129703
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="dep| eurosport 1" group-title="TV | Deportes",EUROSPORT 1
+http://tvstarlife.com:25461/cesar/cesar123/26780
+#EXTINF:-1 tvg-id="f1.ec" tvg-name="dep| dz f1" group-title="TV | Deportes",DZ F1
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/409838
+#EXTINF:-1 tvg-id="f1.ec" tvg-name="dep| dz formula 1" group-title="TV | Deportes",DZ FORMULA 1
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1810
+#EXTINF:-1 tvg-id="f1.ec" tvg-name="dep| formula 1" group-title="TV | Deportes",FORMULA 1
+http://live.iristv.xyz:8080/marcial/123456/5853
+#EXTINF:-1 tvg-id="f1.ec" tvg-name="dep| dazn formula 1" group-title="TV | Deportes",DAZN FORMULA 1
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105205
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="dep| sky sport f1" group-title="TV | Deportes",SKY SPORT F1
+http://tvstarlife.com:25461/cesar/cesar123/1227
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="dep| latin american sport" group-title="TV | Deportes",LATIN AMERICAN SPORT
+http://181.189.243.254:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-id="tenis.ec" tvg-name="dep| canal de tenis" group-title="TV | Deportes",CANAL DE TENIS
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+#EXTINF:-1 tvg-id="bull.ec" tvg-name="dep| red bull tv" group-title="TV | Deportes",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-name="s01 e01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E01
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361610.mkv
+#EXTINF:-1 tvg-name="s01 e02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E02
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361611.mkv
+#EXTINF:-1 tvg-name="s01 e03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E03
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361612.mkv
+#EXTINF:-1 tvg-name="s01 e04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E04
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361613.mkv
+#EXTINF:-1 tvg-name="s01 e05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E05
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361614.mkv
+#EXTINF:-1 tvg-name="s01 e06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E06
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361615.mkv
+#EXTINF:-1 tvg-name="s01 e07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E07
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361616.mkv
+#EXTINF:-1 tvg-name="s01 e08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E08
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361617.mkv
+#EXTINF:-1 tvg-name="s01 e09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E09
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361618.mkv
+#EXTINF:-1 tvg-name="s01 e01" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/448086.mkv
+#EXTINF:-1 tvg-name="s01 e02" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/448087.mkv
+#EXTINF:-1 tvg-name="s01 e03" group-title="SERIES | DRAMA",Los anillos de poder S01 E03
+https://archive.org/download/03_20220909_20220909_1426/03.mp4
+#EXTINF:-1 tvg-name="s01 e04" group-title="SERIES | DRAMA",Los anillos de poder S01 E04
+https://archive.org/download/04_20220916_20220916/04.mp4
+#EXTINF:-1 tvg-name="s01 e05" group-title="SERIES | DRAMA",Los anillos de poder S01 E05
+https://archive.org/download/05_20220923_20220923_1924/05.mp4
+#EXTINF:-1 tvg-name="s01 e06" group-title="SERIES | DRAMA",Los anillos de poder S01 E06
+https://archive.org/download/06_20220930/06.mp4
+#EXTINF:-1 tvg-name="s01 e07" group-title="SERIES | DRAMA",Los anillos de poder S01 E07
+https://archive.org/download/07_20221007_20221007/07.mp4
+#EXTINF:-1 tvg-name="s01 e08" group-title="SERIES | DRAMA",Los anillos de poder S01 E08
+https://archive.org/download/08_20221014/08.mp4
+#EXTINF:-1 tvg-name="e06" group-title="SERIES | DRAMA",La casa del dragon E06
+https://archive.org/download/06_20220926/06.mp4
+#EXTINF:-1 tvg-name="e07" group-title="SERIES | DRAMA",La casa del dragon E07
+https://archive.org/download/07_20221003/07.mp4
+#EXTINF:-1 tvg-name="e08" group-title="SERIES | DRAMA",La casa del dragon E08
+https://archive.org/download/08_20221010_20221010/08.mp4
+#EXTINF:-1 tvg-name="e09" group-title="SERIES | DRAMA",La casa del dragon E09
+https://archive.org/download/09_20221017_20221017/09.mp4
+#EXTINF:-1 tvg-name="e10" group-title="SERIES | DRAMA",La casa del dragon E10
+https://archive.org/download/10_20221024/10.mp4
+#EXTINF:-1 tvg-name="e01" group-title="SERIES | DRAMA",Estamos muertos E01
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2001.mp4
+#EXTINF:-1 tvg-name="e02" group-title="SERIES | DRAMA",Estamos muertos E02
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2002.mp4
+#EXTINF:-1 tvg-name="e03" group-title="SERIES | DRAMA",Estamos muertos E03
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2003.mp4
+#EXTINF:-1 tvg-name="e04" group-title="SERIES | DRAMA",Estamos muertos E04
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2004.mp4
+#EXTINF:-1 tvg-name="e05" group-title="SERIES | DRAMA",Estamos muertos E05
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2005.mp4
+#EXTINF:-1 tvg-name="e06" group-title="SERIES | DRAMA",Estamos muertos E06
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2006.mp4
+#EXTINF:-1 tvg-name="e07" group-title="SERIES | DRAMA",Estamos muertos E07
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2007.mp4
+#EXTINF:-1 tvg-name="e08" group-title="SERIES | DRAMA",Estamos muertos E08
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2008.mp4
+#EXTINF:-1 tvg-name="e09" group-title="SERIES | DRAMA",Estamos muertos E09
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2009.mp4
+#EXTINF:-1 tvg-name="e10" group-title="SERIES | DRAMA",Estamos muertos E10
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2010.mp4
+#EXTINF:-1 tvg-name="e11" group-title="SERIES | DRAMA",Estamos muertos E11
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2011.mp4
+#EXTINF:-1 tvg-name="e12" group-title="SERIES | DRAMA",Estamos muertos E12
+https://archive.org/download/capitulo-04.3gp_202203/capitulo%2012.mp4
+#EXTINF:-1 tvg-name="e1" group-title="SERIES | DRAMA",Ella Hulk E01
+https://archive.org/download/1_20220818_20220818_2308/1.mp4
+#EXTINF:-1 tvg-name="e2" group-title="SERIES | DRAMA",Ella Hulk E02
+https://archive.org/download/02_20220825_202208/02.mp4
+#EXTINF:-1 tvg-name="e3" group-title="SERIES | DRAMA",Ella Hulk E03
+https://archive.org/download/3_20220901_20220901_2328/3.mp4
+#EXTINF:-1 tvg-name="e4" group-title="SERIES | DRAMA",Ella Hulk E04
+https://archive.org/download/01_20220908_20220908_1601/01.mp4
+#EXTINF:-1 tvg-name="e5" group-title="SERIES | DRAMA",Ella Hulk E05
+https://archive.org/download/05_20220915_202209/05.mp4
+#EXTINF:-1 tvg-name="e6" group-title="SERIES | DRAMA",Ella Hulk E06
+https://archive.org/download/06_20220923/06.mp4
+#EXTINF:-1 tvg-name="e7" group-title="SERIES | DRAMA",Ella Hulk E07
+https://archive.org/download/07_20220929_202209/07.mp4
+#EXTINF:-1 tvg-name="e8" group-title="SERIES | DRAMA",Ella Hulk E08
+https://archive.org/download/08_20221014_202210/08.mp4
+#EXTINF:-1 tvg-name="e9" group-title="SERIES | DRAMA",Ella Hulk E09
+https://archive.org/download/09_20221014/09.mp4
+#EXTINF:-1 tvg-name="e1" group-title="SERIES | DRAMA",Merlina E01
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505445.mkv
+#EXTINF:-1 tvg-name="e2" group-title="SERIES | DRAMA",Merlina E02
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505446.mkv
+#EXTINF:-1 tvg-name="e3" group-title="SERIES | DRAMA",Merlina E03
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505447.mkv
+#EXTINF:-1 tvg-name="e4" group-title="SERIES | DRAMA",Merlina E04
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505448.mkv
+#EXTINF:-1 tvg-name="e5" group-title="SERIES | DRAMA",Merlina E05
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505449.mkv
+#EXTINF:-1 tvg-name="e6" group-title="SERIES | DRAMA",Merlina E06
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505450.mkv
+#EXTINF:-1 tvg-name="e7" group-title="SERIES | DRAMA",Merlina E07
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505451.mkv
+#EXTINF:-1 tvg-name="e8" group-title="SERIES | DRAMA",Merlina E08
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505452.mkv
+#EXTINF:-1 tvg-name="rakuten tv familia" group-title="24/7 | 24/7",Rakuten Tv Familia
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="el chavo del 8" group-title="24/7 | 24/7",El chavo del 8
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302641
+#EXTINF:-1 tvg-name="el chapulin colorado" group-title="24/7 | 24/7",El chapulin colorado
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302767
+#EXTINF:-1 tvg-name="cantinflas" group-title="24/7 | 24/7",Cantinflas
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1020
+#EXTINF:-1 tvg-name="futurama" group-title="24/7 | 24/7",Futurama
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/492116
+#EXTINF:-1 tvg-name="icarly" group-title="24/7 | 24/7",Icarly
+https://tinyurl.com/y976r32k
+#EXTINF:-1 tvg-name="bob esponja" group-title="24/7 | 24/7",Bob esponja
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302698
+#EXTINF:-1 tvg-name="los picapiedras" group-title="24/7 | 24/7",Los picapiedras
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302782
+#EXTINF:-1 tvg-name="los padrinos magicos" group-title="24/7 | 24/7",Los padrinos magicos
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/492100
+#EXTINF:-1 tvg-name="kung fu panda" group-title="24/7 | 24/7",Kung fu panda
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/492111
+#EXTINF:-1 tvg-name="como dice el dicho" group-title="24/7 | 24/7",COMO DICE EL DICHO
+https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="los simpsons" group-title="24/7 | 24/7",Los simpsons
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1058
+#EXTINF:-1 tvg-name="dragon ball" group-title="24/7 | 24/7",DRAGON BALL
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302616
+#EXTINF:-1 tvg-name="south park" group-title="24/7 | 24/7",South park
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302635
+#EXTINF:-1 tvg-name="supercampeones" group-title="24/7 | 24/7",Supercampeones
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302753
+#EXTINF:-1 tvg-name="alerta aereopuerto" group-title="24/7 | 24/7",Alerta aereopuerto
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302604
+#EXTINF:-1 tvg-name="la casa de papel" group-title="24/7 | 24/7",La casa de papel
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302624
+#EXTINF:-1 tvg-name="el juego del calamar" group-title="24/7 | 24/7",El juego del calamar
+http://tvstarlife.com:25461/cesar/cesar123/10661
+#EXTINF:-1 tvg-name="familia peluche" group-title="24/7 | 24/7",FAMILIA PELUCHE
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="disney marvel 1" group-title="24/7 | 24/7",DISNEY MARVEL 1
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302647
+#EXTINF:-1 tvg-name="amazon prime 2" group-title="24/7 | 24/7",AMAZON PRIME 2
+http://disfruta.net:80/kikeledesma/dFvFKDYx57/1056
+#EXTINF:-1 tvg-name="cinema hbo 1" group-title="24/7 | 24/7",CINEMA HBO 1
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302649
+#EXTINF:-1 tvg-name="cinema hbo 2" group-title="24/7 | 24/7",CINEMA HBO 2
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302650
+#EXTINF:-1 tvg-name="cinema hbo 4" group-title="24/7 | 24/7",CINEMA HBO 4
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302655
+#EXTINF:-1 tvg-name="cinema hbo 5" group-title="24/7 | 24/7",CINEMA HBO 5
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302657
+#EXTINF:-1 tvg-name="cinema 2" group-title="24/7 | 24/7",CINEMA 2
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302649
+#EXTINF:-1 tvg-name="cinema 3" group-title="24/7 | 24/7",CINEMA 3
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302655
+#EXTINF:-1 tvg-name="rapidos y furiosos" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS
+http://tvstarlife.com:25461/cesar/cesar123/107375
+#EXTINF:-1 tvg-name="rapidos y furiosos hd" group-title="24/7 | 24/7",RAPIDOS Y FURIOSOS HD
+http://tvstarlife.com:25461/cesar/cesar123/114549
+#EXTINF:-1 tvg-name="saw" group-title="24/7 | 24/7",SAW
+http://tvstarlife.com:25461/cesar/cesar123/107381
+#EXTINF:-1 tvg-name="terminator" group-title="24/7 | 24/7",TERMINATOR
+http://tvstarlife.com:25461/cesar/cesar123/107376
+#EXTINF:-1 tvg-name="mulan" group-title="VOD | Peliculas",Mulan
+http://51.81.208.167/cine2/Mulan.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 tvg-name="la biblia en el inicio" group-title="VOD | Peliculas",La biblia en el inicio
+http://51.81.208.167/gmovie/cristiana/The.Bible.In.the.Beginning.1966.mkv
+#EXTINF:-1 tvg-name="prometeus" group-title="VOD | Peliculas",Prometeus
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+#EXTINF:-1 tvg-name="deadpool" group-title="VOD | Peliculas",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+#EXTINF:-1 tvg-name="saw 8" group-title="VOD | Peliculas",Saw 8
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 tvg-name="rapidos y furiosos 9" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="VOD | Peliculas",Rapidos y furiosos 9
+https://ia601402.us.archive.org/31/items/fast-furious-9-areshd/Fast%20%26%20Furious%209%20%E2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-name="cazafantasmas" tvg-logo="https://pics.filmaffinity.com/Cazafantasmas-698795949-large.jpg" group-title="VOD | Peliculas",Cazafantasmas
+https://ia601501.us.archive.org/22/items/cazafantasmas-mas-alla-areshd/Cazafantasmas%20M%C3%A1s%20all%C3%A1%20%E2%80%93%20ARESHD.mp4
+#EXTINF:-1 tvg-name="jurassic world dominion" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/39/2475018.jpg" group-title="VOD | Peliculas",Jurassic world dominion
+https://archive.org/download/jur4ccicw0rd-doml-2022/jur4ccicw0rd-doml-2022.mp4
+#EXTINF:-1 tvg-name="mas barato por docena" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14ESObyRC36US92HWgZDFCkgVvryCmoJZXEMwC9MgjXYFZbPOwcQdOS3QuWsRvaCcoECvNXmhlV5VfhKnOMSIErHe6K2inbK49C-1XcrDzPjOHuGyLsVpaGOy3nDBIiKVLOEcUBH6K2-Kf9SluXYDk_hwyV9HFOnrqxCD5ilXXzOA-5QVhyC5QtEl/s1350/mas%20barato%20por%20docena%20poster.jpg" group-title="VOD | Peliculas",Mas barato por docena
+https://archive.org/download/m4sv4rat0p0rd0cen42022/m4sv4rat0p0rd0cen42022.mp4
+#EXTINF:-1 tvg-name="virus 32" tvg-logo="https://pics.filmaffinity.com/Virus_32-812042263-large.jpg" group-title="VOD | Peliculas",Virus 32
+https://archive.org/download/01_20220423_20220423_1740/01.mp4
+#EXTINF:-1 tvg-name="venom" group-title="VOD | Peliculas",Venom
+http://tvstarlife.com:25461/movie/cesar/cesar123/49829.mp4
+#EXTINF:-1 tvg-name="space jam: nueva leyenda" group-title="VOD | Peliculas",Space jam: nueva leyenda
+http://51.81.208.167/gmedia/premier/Space.Jam.A.New.Legacy.2021.lati.mp4
+#EXTINF:-1 tvg-name="batman:inicia" group-title="VOD | Peliculas",Batman:inicia
+http://higherpro.xyz:8080/movie/557842228429/266467448992/153394.mp4
+#EXTINF:-1 tvg-name="batman:el caballero de la noche" group-title="VOD | Peliculas",Batman:el caballero de la noche
+http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight.mkv
+#EXTINF:-1 tvg-name="batman asciende" group-title="VOD | Peliculas",Batman asciende
+http://vod.tuxchannel.mx/peliculas/720/the%20dark%20knight%20rises.mkv
+#EXTINF:-1 tvg-name="correr o morir 1" group-title="VOD | Peliculas",Correr o morir 1
+https://archive.org/download/mz_20200505/Maze1/MZ.mkv
+#EXTINF:-1 tvg-name="correr o morir 2" group-title="VOD | Peliculas",Correr o morir 2
+https://archive.org/download/maze.-2/Maze2/MAZE.2.mkv
+#EXTINF:-1 tvg-name="correr o morir 3" group-title="VOD | Peliculas",Correr o morir 3
+https://archive.org/download/maz-3/MZ3/MAz3.mkv
+#EXTINF:-1 tvg-name="transformers 1" group-title="VOD | Peliculas",Transformers 1
+http://archive.org/download/west_000/TR4NSF0R.mp4
+#EXTINF:-1 tvg-name="todopoderoso 1" group-title="VOD | Peliculas",Todopoderoso 1
+http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
+#EXTINF:-1 tvg-name="spiderman lejos de casa" group-title="VOD | Peliculas",Spiderman lejos de casa
+http://archive.org/download/sehf_20200103/Sehf.mp4
+#EXTINF:-1 tvg-name="depredador: la presa" group-title="VOD | Peliculas",Depredador: la presa
+http://vod.tuxchannel.mx/peliculas/720/prey%202022.mkv
+#EXTINF:-1 tvg-name="alien vs depredador" group-title="VOD | Peliculas",Alien vs Depredador
+https://archive.org/download/avsprtt-0370263_202204/AVSPrtt0370263.mp4
+#EXTINF:-1 tvg-name="el transportador 1" group-title="VOD | Peliculas",El transportador 1
+http://vod.tuxchannel.mx/peliculas/720/the%20transporter.mkv
+#EXTINF:-1 tvg-name="el transportador 2" group-title="VOD | Peliculas",El transportador 2
+http://vod.tuxchannel.mx/peliculas/720/the%20transporter%202.mkv
+#EXTINF:-1 tvg-name="el transportador 3" group-title="VOD | Peliculas",El transportador 3
+http://vod.tuxchannel.mx/peliculas/720/transporter%203.mkv
+#EXTINF:-1 tvg-name="el transportador 4" group-title="VOD | Peliculas",El transportador 4
+http://tvstarlife.com:25461/movie/cesar/cesar123/93172.mkv
+#EXTINF:-1 tvg-name="plan de escape" group-title="VOD | Peliculas",Plan de escape
+http://vod.tuxchannel.mx/peliculas/720/escape%20plan.mkv
+#EXTINF:-1 tvg-name="estacion zombie" group-title="VOD | Peliculas",Estacion zombie
+http://vod.tuxchannel.mx/peliculas/720/train%20to%20busan.mkv
+#EXTINF:-1 tvg-name="guerra mundial z" group-title="VOD | Peliculas",Guerra mundial Z
+http://vod.tuxchannel.mx/peliculas/720/world%20war%20z%202013.mkv
+#EXTINF:-1 tvg-name="inframundo 1" group-title="VOD | Peliculas",Inframundo 1
+http://higherpro.xyz:8080/movie/557842228429/266467448992/129464.mp4
+#EXTINF:-1 tvg-name="inframundo 2" group-title="VOD | Peliculas",Inframundo 2
+http://vod.tuxchannel.mx/peliculas/720/inframundo.mkv
+#EXTINF:-1 tvg-name="inframundo 3" group-title="VOD | Peliculas",Inframundo 3
+http://vod.tuxchannel.mx/peliculas/720/inframundo%20la%20evolucion.mkv
+#EXTINF:-1 tvg-name="inframundo 4" group-title="VOD | Peliculas",Inframundo 4
+http://tvstarlife.com:25461/movie/cesar/cesar123/93511.mkv
+#EXTINF:-1 tvg-name="inframundo 5" group-title="VOD | Peliculas",Inframundo 5
+http://tvstarlife.com:25461/movie/cesar/cesar123/93512.mkv
+#EXTINF:-1 tvg-name="tren bala" group-title="VOD | Peliculas",TREN BALA
+http://vod.tuxchannel.mx/peliculas/720/bullet%20train%202022.mkv
+#EXTINF:-1 tvg-name="el telefono negro" group-title="VOD | Peliculas",El telefono negro
+https://archive.org/download/01_20220718_20220718_2113/01.mp4
+#EXTINF:-1 tvg-name="coco" group-title="VOD | Peliculas",Coco
+http://51.81.208.167/movie/Coco.mp4
+#EXTINF:-1 tvg-name="mi nombre es khan" group-title="VOD | Peliculas",Mi nombre es Khan
+https://ia802809.us.archive.org/11/items/AlvasaaMiNombreEsKhanRoman/alvasaa-Mi%20Nombre%20Es%20Khan%20roman%28.mp4
+#EXTINF:-1 tvg-name="black adam" group-title="VOD | Peliculas",Black Adam
+https://archive.org/download/01_20221022_20221022_1429/01.mp4
+#EXTINF:-1 tvg-name="sin escalas" group-title="VOD | Peliculas",Sin escalas
+http://tvstarlife.com:25461/movie/cesar/cesar123/184007.mkv
+#EXTINF:-1 tvg-name="no manches frida" group-title="VOD | Peliculas",No manches Frida
+http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
+#EXTINF:-1 tvg-name="no manches frida 2" group-title="VOD | Peliculas",No manches Frida 2
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133250.mp4
+#EXTINF:-1 tvg-name="sin escape" group-title="VOD | Peliculas",Sin escape
+http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
+#EXTINF:-1 tvg-name="un rescate de huevitos" group-title="VOD | Peliculas",Un rescate de huevitos
+http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
+#EXTINF:-1 tvg-name="hotel transylvania 2" group-title="VOD | Peliculas",Hotel transylvania 2
+http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
+#EXTINF:-1 tvg-name="busqueda implacable 1" group-title="VOD | Peliculas",Busqueda Implacable 1
+http://higherpro.xyz:8080/movie/557842228429/266467448992/152719.mp4
+#EXTINF:-1 tvg-name="busqueda implacable 2" group-title="VOD | Peliculas",Busqueda Implacable 2
+http://higherpro.xyz:8080/movie/557842228429/266467448992/152720.mp4
+#EXTINF:-1 tvg-name="busqueda implacable 3" group-title="VOD | Peliculas",Busqueda Implacable 3
+http://higherpro.xyz:8080/movie/557842228429/266467448992/152721.mp4
+#EXTINF:-1 tvg-name="dragon ball super hero" group-title="VOD | Peliculas",Dragon ball super hero
+https://archive.org/download/01_20220902_20220902_1529/01.mp4
+#EXTINF:-1 tvg-name="legalmente rubia 1" group-title="VOD | Peliculas",Legalmente rubia 1
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133177.mp4
+#EXTINF:-1 tvg-name="legalmente rubia 2" group-title="VOD | Peliculas",Legalmente rubia 2
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133261.mkv
+#EXTINF:-1 tvg-name="donde estan las rubias" group-title="VOD | Peliculas",donde estan las rubias
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133144.mp4
+#EXTINF:-1 tvg-name="mad max" group-title="VOD | Peliculas",Mad Max
+http://tvstarlife.com:25461/movie/cesar/cesar123/49618.mp4
+#EXTINF:-1 tvg-name="rampage" group-title="VOD | Peliculas",Rampage
+http://higherpro.xyz:8080/movie/557842228429/266467448992/140983.mp4
+#EXTINF:-1 tvg-name="los croods 1" group-title="VOD | Peliculas",Los Croods 1
+http://higherpro.xyz:8080/movie/557842228429/266467448992/129971.mp4
+#EXTINF:-1 tvg-name="los croods 2" group-title="VOD | Peliculas",Los Croods 2
+http://higherpro.xyz:8080/movie/557842228429/266467448992/131722.mkv
+#EXTINF:-1 tvg-name="turbo" group-title="VOD | Peliculas",Turbo
+http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
+#EXTINF:-1 tvg-name="viejos" group-title="VOD | Peliculas",Viejos
+http://tvstarlife.com:25461/movie/cesar/cesar123/45978.mp4
+#EXTINF:-1 tvg-name="click" group-title="VOD | Peliculas",Click
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133309.mkv
+#EXTINF:-1 tvg-name="rescatando al soldado ryan" group-title="VOD | Peliculas",Rescatando al soldado Ryan
+http://vod.tuxchannel.mx/peliculas/720/saving%20private%20ryan.mkv
+#EXTINF:-1 tvg-name="los 10 mandamientos" group-title="VOD | Peliculas",Los 10 mandamientos
+https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%20Ten%20Commandments%201956%20720p%20Lat.MP4
+#EXTINF:-1 tvg-name="jesús" group-title="VOD | Peliculas",Jesús
+https://vod.lamtv.tv/ene/20220414019.mp4
+#EXTINF:-1 tvg-name="david:los sueños del faraon" group-title="VOD | Peliculas",Jose: los sueños del faraon
+https://vod.lamtv.tv/ene/20220414027.mp4
+#EXTINF:-1 tvg-name="pantera negra" group-title="VOD | Peliculas",Pantera negra
+http://144.217.180.205/Peliculas/Accion/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Latino%20HD%20-%20.mp4
+#EXTINF:-1 tvg-name="avatar, el sentido del agua" group-title="VOD | Peliculas",Avatar, el sentido del agua
+http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
+#EXTINF:-1 tvg-name="jacob" group-title="VOD | Peliculas",Jacob
+https://vod.lamtv.tv/ene/20220412021.mkv
+#EXTINF:-1 tvg-name="jeremias" group-title="VOD | Peliculas",Jeremias
+https://vod.lamtv.tv/ene/20220414018.mp4
+#EXTINF:-1 tvg-name="el padre de la novia 1" group-title="VOD | Peliculas",El padre de la novia 1
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133311.mkv
+#EXTINF:-1 tvg-name="el padre de la novia 2" group-title="VOD | Peliculas",El padre de la novia 2
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133312.mkv
+#EXTINF:-1 tvg-name="el asesino perfecto" group-title="VOD | Peliculas",El asesino perfecto
+http://higherpro.xyz:8080/movie/557842228429/266467448992/155508.mp4
+#EXTINF:-1 tvg-name="super nacho" group-title="VOD | Peliculas",Super nacho
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133196.mp4
+#EXTINF:-1 tvg-name="norbit" group-title="VOD | Peliculas",Norbit
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133198.mp4
+#EXTINF:-1 tvg-name="shaolin soccer" group-title="VOD | Peliculas",Shaolin soccer
+http://higherpro.xyz:8080/movie/557842228429/266467448992/133211.mp4
+#EXTINF:-1 tvg-name="la visita" group-title="VOD | Peliculas",La visita
+http://higherpro.xyz:8080/movie/557842228429/266467448992/132266.mp4
+#EXTINF:-1 tvg-name="imperio de luz" group-title="VOD | Peliculas",Imperio de luz
+http://tvstarlife.com:25461/movie/cesar/cesar123/196529.mkv
+#EXTINF:-1 tvg-name="narvik" group-title="VOD | Peliculas",Narvik
+http://tvstarlife.com:25461/movie/cesar/cesar123/196530.mkv
+#EXTINF:-1 tvg-name="transfusion" group-title="VOD | Peliculas",Transfusion
+http://tvstarlife.com:25461/movie/cesar/cesar123/196534.mkv
+#EXTINF:-1 tvg-name="vértigo" group-title="VOD | Peliculas",Vértigo
+http://laondatv.online:8080/movie/LUIS0511/MARTINEZ2022/405825.mkv
